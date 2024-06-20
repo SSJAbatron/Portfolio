@@ -25,7 +25,7 @@ author:
   name             : "Abhay Ashok Kumar"
   pronouns         : # example: "she/her"  
   bio              : "Programmer/Game Designer"
-  location         : "Tamil Nadu"
+  location         : "Chennai, Tamil Nadu"
   employer         : "Odyssey Technologies Ltd."
   uri              : # URL
   email            : "a.abhay96@gmail.com" 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/SSJAbatron"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -55,14 +55,14 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "musashim3"
+  instagram        :  #Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/abhay-ashok-kumar-7b685bb3"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : "https://steamcommunity.com/id/abatron3/"
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
@@ -70,7 +70,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://www.youtube.com/channel/UCsgvfKv3rY99w2WZsNuto_A"
   zhihu            : # URL
 
 
