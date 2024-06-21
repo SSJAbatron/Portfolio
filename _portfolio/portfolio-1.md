@@ -1,10 +1,9 @@
 ---
 title: "Find The Dragon Orbs"
-excerpt: "Game Project made in association to Gamer2Maker in a team of 6.<br/>I Worked as the lead game designer"
+excerpt: "Game Project made in association to Gamer2Maker in a team of 6.<br/>I Worked as the lead game designer<img src='https://github.com/SSJAbatron/Portfolio/blob/main/images/gif_2.gif'/>"
 collection: portfolio
 ---
 
-![FindTheDragonOrbs](/images/gif_2.gif)
 
 ## About
 > This was a game project assignmet which was part of Gamer2Maker.
