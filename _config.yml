@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Abhay Ashok Kumar"
 description              : &description "Passionate Programmer"
 url                      : https://ssjabatron.github.io/Portfolio # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Portfolio" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "/SSJAbatron/Portfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
