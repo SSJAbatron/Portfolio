@@ -4,11 +4,11 @@ excerpt: "Game Project made in association to Gamer2Maker in a team of 6.<br/>I 
 collection: portfolio
 ---
 
-#### About
+## About
 > This was a game project assignmet which was part of Gamer2Maker.
 > The game was pitched by me in a pitching session deciding whether the game would be considered to be built or not.
 
-#### Project Info
+## Project Info
 __Role :__ **Lead Game Designer**
 
 __Team Size :__ 6
