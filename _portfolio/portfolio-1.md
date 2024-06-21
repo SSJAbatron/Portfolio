@@ -1,6 +1,6 @@
 ---
 title: "Find The Dragon Orbs"
-excerpt: "Game Project made in association to Gamer2Maker in a team of 6.<br/>I Worked as the lead game designer<img src='/images/ss_2.png'>"
+excerpt: "Game Project made in association to Gamer2Maker in a team of 6.<br/>I Worked as the lead game designer<img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
