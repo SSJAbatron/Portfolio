@@ -10,8 +10,11 @@ collection: portfolio
 
 #### Project Info
 __Role :__ **Lead Game Designer**
+
 __Team Size :__ 6
+
 __Time Frame :__ 1 Year(April 2023 - April 2024)
+
 __Engine :__ Unity 2022.2.21f1
 
 
