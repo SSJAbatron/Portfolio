@@ -22,7 +22,7 @@ redirect_from:
 
 - 💬 Ask me about **C++, Unity C#, Unreal Engine Blueprints, Erlang**
 
-- 🔬 Exploring **Rust**
+- 🔬 Exploring **Rust**, **Godot**
 
 - 📫 How to reach me **a.abhay96@gmail.com**
 
