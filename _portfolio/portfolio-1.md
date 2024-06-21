@@ -1,7 +1,18 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Find The Dragon Orbs"
+excerpt: "Game Project made in association to Gamer2Maker in a team of 6.<br/>I Worked as the lead game designer<img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+#### About
+> This was a game project assignmet which was part of Gamer2Maker.
+> The game was pitched by me in a pitching session deciding whether the game would be considered to be built or not.
+
+#### Project Info
+__Role :__ **Lead Game Designer**
+__Team Size :__ 6
+__Time Frame :__ 1 Year(April 2023 - April 2024)
+__Engine :__ Unity 2022.2.21f1
+
+
+
